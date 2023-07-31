@@ -1,4 +1,4 @@
-/*var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
+*var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
 <<<<<<< HEAD
 var randomTopic = topics[Math.floor(Math.random() * topics.length)];
 
